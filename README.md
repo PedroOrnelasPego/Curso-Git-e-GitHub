@@ -1,2 +1,2 @@
-# WorkSpace
- Repositório do curso de Git e GitHub
+# Workspace
+ Repositório do curso de Git e GitHub.

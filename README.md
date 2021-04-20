@@ -6,11 +6,17 @@ Aprendedendo mais sobre a linguagem **Markdown** no curso de Git e GitHub.
 
 ### Dicionário:
 Título Nível 1: #
+
 Título Nível 2: ##
+
 Título Nível 3: ###
+
 **Negrito**: ** ** ou __ __
+
 *Itálico*  : * * ou _ _ 
+
 ~~Riscar~~ : ~~ ~~
+
 Linha Horizontal: --- ou ***
 
 Lista numerada: 

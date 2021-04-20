@@ -1,7 +1,6 @@
 # Workspace 
- Repositório criado no curso de **Git e GitHub** do Gustavo Guanabara.
+ 
 
----
 ## Prática de Markdown
 Aprendedendo mais sobre a linguagem **Markdown** no curso de Git e GitHub.
 

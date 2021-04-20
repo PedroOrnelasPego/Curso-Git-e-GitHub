@@ -27,6 +27,6 @@ Lista demarcada: * Teste
 *Teste
 
 Lista de tarefas: -[] e para completar - [x]
-- [] teste
-- [] teste
-- [] teste
+- [ ] teste
+- [ ] teste
+- [ ] teste

@@ -17,9 +17,13 @@ Título Nível 3: ###
 
 ~~Riscar~~ : ~~ ~~
 
+`Código`: Usar o crase `<!DOCTYPE html>` Para um trecho maior usar 3 crases em cima 3 em baixo e código no meio.  
+
+Emojis :metal:: (Sem espaçamento) : metal : 
+
 Linha Horizontal: --- ou ***
 
-Lista numerada: 
+Lista numerada:
 
 1. 
 2.
@@ -38,6 +42,14 @@ Lista de tarefas: -[ ] e para completar - [x]
 - [ ] teste
 - [ ] teste
 - [ ] teste
+
+Tabela:
+Num | Nome | Nota
+---|---|---
+1|Pedro|10
+2|João|8,5
+
+Acabou a tabela!
 
  [Meu GitHub](https://github.com/PedroOrnelasPego)
  

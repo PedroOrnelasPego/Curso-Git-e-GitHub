@@ -38,3 +38,7 @@ Lista de tarefas: -[ ] e para completar - [x]
 - [ ] teste
 - [ ] teste
 - [ ] teste
+
+ [Meu GitHub](https://github.com/PedroOrnelasPego)
+ 
+![MeuOctocat](https://user-images.githubusercontent.com/77706490/115455807-d0aea580-a1f8-11eb-9cf2-dbc98665776b.png) 

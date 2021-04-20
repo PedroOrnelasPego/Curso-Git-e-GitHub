@@ -20,19 +20,21 @@ Título Nível 3: ###
 Linha Horizontal: --- ou ***
 
 Lista numerada: 
+
 1. 
 2.
  3. 
 3.
 
 Lista demarcada: * Teste
-*Teste 
-*Teste
- *Teste 
-*Teste
-*Teste
 
-Lista de tarefas: -[] e para completar - [x]
+* Teste 
+* Teste
+ * Teste 
+* Teste
+* Teste
+
+Lista de tarefas: -[ ] e para completar - [x]
 - [ ] teste
 - [ ] teste
 - [ ] teste
